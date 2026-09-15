@@ -24,7 +24,7 @@ sqlite3 cotacoes.db < consultas_exemplos.sql
 
 ## Por que este projeto
 
-Combina três coisas que aparecem constantemente em trabalho PJ de dados/automação: consumo de API externa, tratamento de falha (a API pode cair, mudar formato ou ficar lenta) e modelagem simples em banco relacional. O recorte em dados financeiros também é proposital — é a área onde tenho profundidade real, vinda da minha experiência em produtos de pagamento.
+Consumo de API externa, tratamento de falha (a API pode cair, mudar formato ou ficar lenta) e modelagem simples em banco relacional. O recorte em dados financeiros também é proposital — é a área onde tenho profundidade real, vinda da minha experiência em produtos de pagamento.
 
 ## Possíveis evoluções
 
